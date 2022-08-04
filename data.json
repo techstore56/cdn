@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "code": 200,
+    "data": [
+        {
+            "_id": "62e6e943a1d6df0ab82356cb",
+            "name": "Gazipur Palli Buiddut Shamity",
+            "substations": [
+                "Gazipur-1, 40MVA",
+                "Sreepur-1, 40MVA"
+            ],
+            "updatedAt": "2022-07-31T19:38:21.734Z",
+            "createdAt": "2022-07-31T19:38:21.734Z",
+            "__v": 0
+        },
+        {
+            "_id": "62e6e957a1d6df0ab82356cf",
+            "name": "Mymensing Palli Buiddut Shamity",
+            "substations": [
+                "Bhaluka, 240MVA",
+                "Jamalpur, 232MVA"
+            ],
+            "updatedAt": "2022-07-31T19:38:21.734Z",
+            "createdAt": "2022-07-31T19:38:21.734Z",
+            "__v": 0
+        }
+    ]
+}
