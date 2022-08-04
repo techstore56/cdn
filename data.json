@@ -6,8 +6,8 @@
             "_id": "62e6e943a1d6df0ab82356cb",
             "name": "Gazipur Palli Buiddut Shamity",
             "substations": [
-                {id:0, name:"Gazipur-1, 40MVA"},
-                {id:1, name:"Sreepur-1, 40MVA"}
+                {"_id":0, "name":"Gazipur-1, 40MVA"},
+                {"_id":1, "name":"Sreepur-1, 40MVA"}
             ],
             "updatedAt": "2022-07-31T19:38:21.734Z",
             "createdAt": "2022-07-31T19:38:21.734Z",
@@ -17,8 +17,8 @@
             "_id": "62e6e957a1d6df0ab82356cf",
             "name": "Mymensing Palli Buiddut Shamity",
             "substations": [
-                 {id:0,"Bhaluka, 240MVA",},
-                 {id:1,"Jamalpur, 232MVA"}
+                 {"_id":0,"name":"Bhaluka, 240MVA"},
+                 {"_id":1,"name":"Jamalpur, 232MVA"}
             ],
             "updatedAt": "2022-07-31T19:38:21.734Z",
             "createdAt": "2022-07-31T19:38:21.734Z",
